@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Inventory Matcher\bin\Release\3.Inventory Matcher.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Inventory Matcher\bin\Release\3.Inventory Matcher.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Inventory Matcher\bin\Release\3.Inventory Matcher.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Inventory Matcher\obj\Release\3.Inventory Matcher.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Inventory Matcher\obj\Release\3.Inventory Matcher.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Inventory Matcher\obj\Release\3.Inventory Matcher.pdb

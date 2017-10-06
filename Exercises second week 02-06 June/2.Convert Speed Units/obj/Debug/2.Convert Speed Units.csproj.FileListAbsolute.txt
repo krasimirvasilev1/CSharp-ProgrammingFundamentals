@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Units\bin\Debug\2.Convert Speed Units.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Units\bin\Debug\2.Convert Speed Units.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Units\bin\Debug\2.Convert Speed Units.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Units\obj\Debug\2.Convert Speed Units.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Units\obj\Debug\2.Convert Speed Units.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Units\obj\Debug\2.Convert Speed Units.csprojResolveAssemblyReference.cache

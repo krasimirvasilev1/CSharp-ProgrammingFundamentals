@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.Beverage Labels\bin\Debug\1.Beverage Labels.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.Beverage Labels\bin\Debug\1.Beverage Labels.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.Beverage Labels\bin\Debug\1.Beverage Labels.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.Beverage Labels\obj\Debug\1.Beverage Labels.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.Beverage Labels\obj\Debug\1.Beverage Labels.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.Beverage Labels\obj\Debug\1.Beverage Labels.pdb

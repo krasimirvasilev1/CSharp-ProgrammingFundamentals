@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\Упражнения за първа седмица 21-26 Май\bin\Debug\Упражнения за първа седмица 21-26 Май.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\Упражнения за първа седмица 21-26 Май\bin\Debug\Упражнения за първа седмица 21-26 Май.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\Упражнения за първа седмица 21-26 Май\bin\Debug\Упражнения за първа седмица 21-26 Май.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\Упражнения за първа седмица 21-26 Май\obj\Debug\Exersice 1 - Class.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\Упражнения за първа седмица 21-26 Май\obj\Debug\Упражнения за първа седмица 21-26 Май.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\Упражнения за първа седмица 21-26 Май\obj\Debug\Упражнения за първа седмица 21-26 Май.pdb

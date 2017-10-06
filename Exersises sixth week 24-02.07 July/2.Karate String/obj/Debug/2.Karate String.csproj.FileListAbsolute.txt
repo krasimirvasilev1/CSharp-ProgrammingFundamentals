@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Karate String\bin\Debug\2.Karate String.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Karate String\bin\Debug\2.Karate String.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Karate String\bin\Debug\2.Karate String.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Karate String\obj\Debug\2.Karate String.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Karate String\obj\Debug\2.Karate String.pdb

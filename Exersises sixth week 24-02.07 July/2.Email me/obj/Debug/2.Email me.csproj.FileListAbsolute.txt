@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Email me\bin\Debug\2.Email me.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Email me\bin\Debug\2.Email me.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Email me\bin\Debug\2.Email me.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Email me\obj\Debug\2.Email me.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Email me\obj\Debug\2.Email me.pdb

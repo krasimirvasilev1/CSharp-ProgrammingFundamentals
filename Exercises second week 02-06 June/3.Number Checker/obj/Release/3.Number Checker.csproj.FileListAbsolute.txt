@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Number Checker\bin\Release\3.Number Checker.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Number Checker\bin\Release\3.Number Checker.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Number Checker\bin\Release\3.Number Checker.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Number Checker\obj\Release\3.Number Checker.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Number Checker\obj\Release\3.Number Checker.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Manipulate Array\bin\Release\3.Manipulate Array.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Manipulate Array\bin\Release\3.Manipulate Array.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Manipulate Array\bin\Release\3.Manipulate Array.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Manipulate Array\obj\Release\3.Manipulate Array.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Manipulate Array\obj\Release\3.Manipulate Array.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Manipulate Array\obj\Release\3.Manipulate Array.csprojResolveAssemblyReference.cache

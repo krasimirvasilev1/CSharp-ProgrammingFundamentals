@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\example\bin\Release\example.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\example\bin\Release\example.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\example\bin\Release\example.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\example\obj\Release\example.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\example\obj\Release\example.pdb

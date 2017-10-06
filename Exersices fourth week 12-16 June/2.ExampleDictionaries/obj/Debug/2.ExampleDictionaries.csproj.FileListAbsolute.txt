@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.ExampleDictionaries\bin\Debug\2.ExampleDictionaries.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.ExampleDictionaries\bin\Debug\2.ExampleDictionaries.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.ExampleDictionaries\bin\Debug\2.ExampleDictionaries.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.ExampleDictionaries\obj\Debug\2.ExampleDictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.ExampleDictionaries\obj\Debug\2.ExampleDictionaries.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.ExampleDictionaries\obj\Debug\2.ExampleDictionaries.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Endurance Rally\bin\Debug\1.Endurance Rally.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Endurance Rally\bin\Debug\1.Endurance Rally.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Endurance Rally\bin\Debug\1.Endurance Rally.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Endurance Rally\obj\Debug\1.Endurance Rally 3.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Endurance Rally\obj\Debug\1.Endurance Rally.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Endurance Rally\obj\Debug\1.Endurance Rally.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Training Hall Equipment\bin\Release\2.Training Hall Equipment.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Training Hall Equipment\bin\Release\2.Training Hall Equipment.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Training Hall Equipment\bin\Release\2.Training Hall Equipment.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Training Hall Equipment\obj\Release\2.Training Hall Equipment.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Training Hall Equipment\obj\Release\2.Training Hall Equipment.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Training Hall Equipment\obj\Release\2.Training Hall Equipment.csprojResolveAssemblyReference.cache

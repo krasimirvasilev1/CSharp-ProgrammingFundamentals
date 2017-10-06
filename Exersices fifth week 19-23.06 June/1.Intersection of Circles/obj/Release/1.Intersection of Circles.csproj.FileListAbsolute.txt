@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Intersection of Circles\bin\Release\1.Intersection of Circles.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Intersection of Circles\bin\Release\1.Intersection of Circles.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Intersection of Circles\bin\Release\1.Intersection of Circles.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Intersection of Circles\obj\Release\1.Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Intersection of Circles\obj\Release\1.Intersection of Circles.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Intersection of Circles\obj\Release\1.Intersection of Circles.pdb

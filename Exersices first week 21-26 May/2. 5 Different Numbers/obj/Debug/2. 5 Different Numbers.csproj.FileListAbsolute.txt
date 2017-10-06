@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2. 5 Different Numbers\bin\Debug\2. 5 Different Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2. 5 Different Numbers\bin\Debug\2. 5 Different Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2. 5 Different Numbers\bin\Debug\2. 5 Different Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2. 5 Different Numbers\obj\Debug\2. 5 Different Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2. 5 Different Numbers\obj\Debug\2. 5 Different Numbers.pdb

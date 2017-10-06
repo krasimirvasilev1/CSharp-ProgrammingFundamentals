@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Andrey and Billiard\bin\Debug\1.Andrey and Billiard.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Andrey and Billiard\bin\Debug\1.Andrey and Billiard.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Andrey and Billiard\bin\Debug\1.Andrey and Billiard.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Andrey and Billiard\obj\Debug\1.Andrey and Billiard.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Andrey and Billiard\obj\Debug\1.Andrey and Billiard.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Andrey and Billiard\obj\Debug\1.Andrey and Billiard.csprojResolveAssemblyReference.cache

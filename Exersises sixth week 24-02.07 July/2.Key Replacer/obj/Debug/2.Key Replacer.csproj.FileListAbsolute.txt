@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Key Replacer\bin\Debug\2.Key Replacer.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Key Replacer\bin\Debug\2.Key Replacer.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Key Replacer\bin\Debug\2.Key Replacer.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Key Replacer\obj\Debug\2.Key Replacer.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Key Replacer\obj\Debug\2.Key Replacer.pdb

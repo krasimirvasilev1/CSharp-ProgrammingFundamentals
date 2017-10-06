@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Last K Numbers Sums Sequence\bin\Release\1.Last K Numbers Sums Sequence.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Last K Numbers Sums Sequence\bin\Release\1.Last K Numbers Sums Sequence.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Last K Numbers Sums Sequence\bin\Release\1.Last K Numbers Sums Sequence.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Last K Numbers Sums Sequence\obj\Release\1.Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Last K Numbers Sums Sequence\obj\Release\1.Last K Numbers Sums Sequence.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Last K Numbers Sums Sequence\obj\Release\1.Last K Numbers Sums Sequence.pdb

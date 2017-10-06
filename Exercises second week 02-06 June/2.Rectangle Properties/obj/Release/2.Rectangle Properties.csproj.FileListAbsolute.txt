@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Rectangle Properties\bin\Release\2.Rectangle Properties.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Rectangle Properties\bin\Release\2.Rectangle Properties.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Rectangle Properties\bin\Release\2.Rectangle Properties.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Rectangle Properties\obj\Release\2.Rectangle Properties.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Rectangle Properties\obj\Release\2.Rectangle Properties.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Rectangle Properties\obj\Release\2.Rectangle Properties.pdb

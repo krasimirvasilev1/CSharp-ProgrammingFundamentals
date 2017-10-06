@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Count Real Numbers\bin\Debug\2.Count Real Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Count Real Numbers\bin\Debug\2.Count Real Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Count Real Numbers\bin\Debug\2.Count Real Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Count Real Numbers\obj\Debug\2.Count Real Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Count Real Numbers\obj\Debug\2.Count Real Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Count Real Numbers\obj\Debug\2.Count Real Numbers.pdb

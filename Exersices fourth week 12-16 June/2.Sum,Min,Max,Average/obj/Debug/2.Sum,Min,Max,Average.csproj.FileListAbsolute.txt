@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum,Min,Max,Average\bin\Debug\2.Sum,Min,Max,Average.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum,Min,Max,Average\bin\Debug\2.Sum,Min,Max,Average.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum,Min,Max,Average\bin\Debug\2.Sum,Min,Max,Average.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum,Min,Max,Average\obj\Debug\2.Sum,Min,Max,Average.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum,Min,Max,Average\obj\Debug\2.Sum,Min,Max,Average.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum,Min,Max,Average\obj\Debug\2.Sum,Min,Max,Average.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp1\obj\Debug\1.Rectangle Area.csprojResolveAssemblyReference.cache

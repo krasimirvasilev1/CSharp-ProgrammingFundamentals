@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Change List\bin\Debug\2.Change List.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Change List\bin\Debug\2.Change List.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Change List\bin\Debug\2.Change List.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Change List\obj\Debug\2.Change List.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Change List\obj\Debug\2.Change List.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\bin\Release\2.Most Frequent Number.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\bin\Release\2.Most Frequent Number.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\bin\Release\2.Most Frequent Number.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\obj\Release\2.Most Frequent Number.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\obj\Release\2.Most Frequent Number.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\obj\Release\2.Most Frequent Number.pdb

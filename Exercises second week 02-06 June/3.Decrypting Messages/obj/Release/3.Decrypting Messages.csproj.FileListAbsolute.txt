@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Decrypting Messages\bin\Release\3.Decrypting Messages.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Decrypting Messages\bin\Release\3.Decrypting Messages.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Decrypting Messages\bin\Release\3.Decrypting Messages.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Decrypting Messages\obj\Release\3.Decrypting Messages.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Decrypting Messages\obj\Release\3.Decrypting Messages.pdb

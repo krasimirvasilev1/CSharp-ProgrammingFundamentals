@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Days of Week\bin\Debug\1.Days of Week.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Days of Week\bin\Debug\1.Days of Week.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Days of Week\bin\Debug\1.Days of Week.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Days of Week\obj\Debug\1.Days of Week.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Days of Week\obj\Debug\1.Days of Week.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Days of Week\obj\Debug\1.Days of Week.pdb

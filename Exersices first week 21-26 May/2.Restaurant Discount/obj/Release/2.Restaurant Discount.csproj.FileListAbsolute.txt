@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Restaurant Discount\bin\Release\2.Restaurant Discount.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Restaurant Discount\bin\Release\2.Restaurant Discount.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Restaurant Discount\bin\Release\2.Restaurant Discount.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Restaurant Discount\obj\Release\2.Restaurant Discount.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Restaurant Discount\obj\Release\2.Restaurant Discount.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Restaurant Discount\obj\Release\2.Restaurant Discount.pdb

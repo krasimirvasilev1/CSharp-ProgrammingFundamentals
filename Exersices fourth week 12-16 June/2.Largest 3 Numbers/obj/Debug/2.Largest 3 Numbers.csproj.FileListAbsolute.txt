@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Largest 3 Numbers\bin\Debug\2.Largest 3 Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Largest 3 Numbers\bin\Debug\2.Largest 3 Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Largest 3 Numbers\bin\Debug\2.Largest 3 Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Largest 3 Numbers\obj\Debug\2.Largest 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Largest 3 Numbers\obj\Debug\2.Largest 3 Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Largest 3 Numbers\obj\Debug\2.Largest 3 Numbers.pdb

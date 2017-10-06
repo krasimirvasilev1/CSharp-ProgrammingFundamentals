@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Make a Word\bin\Release\3.Make a Word.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Make a Word\bin\Release\3.Make a Word.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Make a Word\bin\Release\3.Make a Word.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Make a Word\obj\Release\3.Make a Word.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Make a Word\obj\Release\3.Make a Word.pdb

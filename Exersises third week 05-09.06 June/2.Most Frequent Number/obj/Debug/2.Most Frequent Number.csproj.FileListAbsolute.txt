@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\bin\Debug\2.Most Frequent Number.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\bin\Debug\2.Most Frequent Number.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\bin\Debug\2.Most Frequent Number.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\obj\Debug\2.Most Frequent Number.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Most Frequent Number\obj\Debug\2.Most Frequent Number.pdb

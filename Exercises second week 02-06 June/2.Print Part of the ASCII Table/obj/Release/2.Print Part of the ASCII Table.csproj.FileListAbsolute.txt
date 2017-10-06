@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Print Part of the ASCII Table\bin\Release\2.Print Part of the ASCII Table.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Print Part of the ASCII Table\bin\Release\2.Print Part of the ASCII Table.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Print Part of the ASCII Table\bin\Release\2.Print Part of the ASCII Table.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Print Part of the ASCII Table\obj\Release\2.Print Part of the ASCII Table.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Print Part of the ASCII Table\obj\Release\2.Print Part of the ASCII Table.pdb

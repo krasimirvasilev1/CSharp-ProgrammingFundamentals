@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.Files\bin\Debug\4.Files.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.Files\bin\Debug\4.Files.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.Files\bin\Debug\4.Files.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.Files\obj\Debug\4.Files.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.Files\obj\Debug\4.Files.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.Files\obj\Debug\4.Files.pdb

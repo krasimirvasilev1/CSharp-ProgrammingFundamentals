@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Example\bin\Release\1.Example.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Example\bin\Release\1.Example.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Example\bin\Release\1.Example.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Example\obj\Release\1.Example.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Example\obj\Release\1.Example.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Example\obj\Release\1.Example.pdb

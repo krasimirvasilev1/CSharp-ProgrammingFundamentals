@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Fibonaci Numbers\bin\Debug\1.Fibonaci Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Fibonaci Numbers\bin\Debug\1.Fibonaci Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Fibonaci Numbers\bin\Debug\1.Fibonaci Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Fibonaci Numbers\obj\Debug\1.Fibonaci Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Fibonaci Numbers\obj\Debug\1.Fibonaci Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Fibonaci Numbers\obj\Debug\1.Fibonaci Numbers.pdb

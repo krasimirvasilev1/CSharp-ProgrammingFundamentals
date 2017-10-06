@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.English Name Of Last Digit\bin\Debug\1.English Name Of Last Digit.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.English Name Of Last Digit\bin\Debug\1.English Name Of Last Digit.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.English Name Of Last Digit\bin\Debug\1.English Name Of Last Digit.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.English Name Of Last Digit\obj\Debug\1.English Name Of Last Digit.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.English Name Of Last Digit\obj\Debug\1.English Name Of Last Digit.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.English Name Of Last Digit\obj\Debug\1.English Name Of Last Digit.csprojResolveAssemblyReference.cache

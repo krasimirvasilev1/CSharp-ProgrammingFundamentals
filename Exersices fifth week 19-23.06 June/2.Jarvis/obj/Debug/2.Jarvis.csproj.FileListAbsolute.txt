@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Jarvis\bin\Debug\2.Jarvis.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Jarvis\bin\Debug\2.Jarvis.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Jarvis\bin\Debug\2.Jarvis.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Jarvis\obj\Debug\2.Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Jarvis\obj\Debug\2.Jarvis.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Jarvis\obj\Debug\2.Jarvis.pdb

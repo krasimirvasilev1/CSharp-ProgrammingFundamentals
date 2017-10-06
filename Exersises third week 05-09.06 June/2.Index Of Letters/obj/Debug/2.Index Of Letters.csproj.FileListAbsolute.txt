@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Index Of Letters\bin\Debug\2.Index Of Letters.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Index Of Letters\bin\Debug\2.Index Of Letters.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Index Of Letters\bin\Debug\2.Index Of Letters.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Index Of Letters\obj\Debug\2.Index Of Letters.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Index Of Letters\obj\Debug\2.Index Of Letters.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Index Of Letters\obj\Debug\2.Index Of Letters.pdb

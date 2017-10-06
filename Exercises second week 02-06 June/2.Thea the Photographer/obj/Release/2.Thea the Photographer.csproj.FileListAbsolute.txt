@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Thea the Photographer\bin\Release\2.Thea the Photographer.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Thea the Photographer\bin\Release\2.Thea the Photographer.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Thea the Photographer\bin\Release\2.Thea the Photographer.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Thea the Photographer\obj\Release\2.Thea the Photographer.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Thea the Photographer\obj\Release\2.Thea the Photographer.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Thea the Photographer\obj\Release\2.Thea the Photographer.pdb

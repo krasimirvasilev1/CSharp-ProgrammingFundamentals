@@ -1,0 +1,6 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.SoftUni Karaoke\bin\Debug\1.SoftUni Karaoke.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.SoftUni Karaoke\bin\Debug\1.SoftUni Karaoke.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.SoftUni Karaoke\bin\Debug\1.SoftUni Karaoke.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.SoftUni Karaoke\obj\Debug\1.SoftUni Karaoke.csprojResolveAssemblyReference.cache
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.SoftUni Karaoke\obj\Debug\1.SoftUni Karaoke.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.SoftUni Karaoke\obj\Debug\1.SoftUni Karaoke.pdb

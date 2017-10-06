@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Bomb Numbers\bin\Release\2.Bomb Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Bomb Numbers\bin\Release\2.Bomb Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Bomb Numbers\bin\Release\2.Bomb Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Bomb Numbers\obj\Release\2.Bomb Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Bomb Numbers\obj\Release\2.Bomb Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Printing Triangle\bin\Debug\1.Printing Triangle.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Printing Triangle\bin\Debug\1.Printing Triangle.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Printing Triangle\bin\Debug\1.Printing Triangle.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Printing Triangle\obj\Debug\1.Printing Triangle.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Printing Triangle\obj\Debug\1.Printing Triangle.pdb

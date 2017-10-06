@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Randomize Words\bin\Release\1.Randomize Words.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Randomize Words\bin\Release\1.Randomize Words.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Randomize Words\bin\Release\1.Randomize Words.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Randomize Words\obj\Release\1.Randomize Words.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Randomize Words\obj\Release\1.Randomize Words.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\1.Randomize Words\obj\Release\1.Randomize Words.csprojResolveAssemblyReference.cache

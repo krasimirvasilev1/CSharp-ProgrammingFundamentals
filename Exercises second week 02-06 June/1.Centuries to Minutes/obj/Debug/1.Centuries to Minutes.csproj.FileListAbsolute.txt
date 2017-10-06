@@ -1,0 +1,5 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Centuries to Minutes\bin\Debug\1.Centuries to Minutes.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Centuries to Minutes\bin\Debug\1.Centuries to Minutes.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Centuries to Minutes\bin\Debug\1.Centuries to Minutes.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Centuries to Minutes\obj\Debug\1.Centuries to Minutes.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Centuries to Minutes\obj\Debug\1.Centuries to Minutes.pdb

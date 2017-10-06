@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Split by Word Casing\bin\Release\1.Split by Word Casing.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Split by Word Casing\bin\Release\1.Split by Word Casing.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Split by Word Casing\bin\Release\1.Split by Word Casing.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Split by Word Casing\obj\Release\1.Split by Word Casing.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Split by Word Casing\obj\Release\1.Split by Word Casing.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Split by Word Casing\obj\Release\1.Split by Word Casing.pdb

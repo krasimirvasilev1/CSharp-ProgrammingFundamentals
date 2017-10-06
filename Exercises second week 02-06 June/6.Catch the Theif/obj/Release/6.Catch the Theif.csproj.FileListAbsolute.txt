@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\6.Catch the Theif\bin\Release\6.Catch the Theif.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\6.Catch the Theif\bin\Release\6.Catch the Theif.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\6.Catch the Theif\bin\Release\6.Catch the Theif.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\6.Catch the Theif\obj\Release\6.Catch the Theif.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\6.Catch the Theif\obj\Release\6.Catch the Theif.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\6.Catch the Theif\obj\Release\6.Catch the Theif.pdb

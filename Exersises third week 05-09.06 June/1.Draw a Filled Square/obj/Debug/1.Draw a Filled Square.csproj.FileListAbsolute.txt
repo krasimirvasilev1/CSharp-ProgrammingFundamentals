@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Draw a Filled Square\bin\Debug\1.Draw a Filled Square.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Draw a Filled Square\bin\Debug\1.Draw a Filled Square.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Draw a Filled Square\bin\Debug\1.Draw a Filled Square.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Draw a Filled Square\obj\Debug\1.Draw a Filled Square.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Draw a Filled Square\obj\Debug\1.Draw a Filled Square.pdb

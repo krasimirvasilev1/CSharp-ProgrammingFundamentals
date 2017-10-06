@@ -1,0 +1,6 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за трета седмица 05-09.06\Упражнения за трета седмица 05-09.06\bin\Debug\Упражнения за трета седмица 05-09.06.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за трета седмица 05-09.06\Упражнения за трета седмица 05-09.06\bin\Debug\Упражнения за трета седмица 05-09.06.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за трета седмица 05-09.06\Упражнения за трета седмица 05-09.06\bin\Debug\Упражнения за трета седмица 05-09.06.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за трета седмица 05-09.06\Упражнения за трета седмица 05-09.06\obj\Debug\Упражнения за трета седмица 05-09.06.csprojResolveAssemblyReference.cache
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за трета седмица 05-09.06\Упражнения за трета седмица 05-09.06\obj\Debug\Упражнения за трета седмица 05-09.06.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за трета седмица 05-09.06\Упражнения за трета седмица 05-09.06\obj\Debug\Упражнения за трета седмица 05-09.06.pdb

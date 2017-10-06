@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Camera View - Regex\bin\Debug\2.Camera View - Regex.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Camera View - Regex\bin\Debug\2.Camera View - Regex.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Camera View - Regex\bin\Debug\2.Camera View - Regex.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Camera View - Regex\obj\Debug\2.Camera View - Regex.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Camera View - Regex\obj\Debug\2.Camera View - Regex.pdb

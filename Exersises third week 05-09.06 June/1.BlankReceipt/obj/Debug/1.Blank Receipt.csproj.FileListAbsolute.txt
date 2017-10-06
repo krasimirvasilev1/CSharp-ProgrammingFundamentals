@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.BlankReceipt\bin\Debug\1.BlankReceipt.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.BlankReceipt\bin\Debug\1.BlankReceipt.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.BlankReceipt\bin\Debug\1.BlankReceipt.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.BlankReceipt\obj\Debug\1.BlankReceipt.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.BlankReceipt\obj\Debug\1.BlankReceipt.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.BlankReceipt\obj\Debug\1.Blank Receipt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Sum Odd Numbers\Sum Odd Numbers\bin\Debug\Sum Odd Numbers.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Sum Odd Numbers\Sum Odd Numbers\bin\Debug\Sum Odd Numbers.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Sum Odd Numbers\Sum Odd Numbers\bin\Debug\Sum Odd Numbers.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Sum Odd Numbers\Sum Odd Numbers\obj\Debug\Sum Odd Numbers.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Sum Odd Numbers\Sum Odd Numbers\obj\Debug\Sum Odd Numbers.pdb

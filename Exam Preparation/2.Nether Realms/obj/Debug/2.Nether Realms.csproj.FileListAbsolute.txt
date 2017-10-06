@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Nether Realms\bin\Debug\2.Nether Realms.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Nether Realms\bin\Debug\2.Nether Realms.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Nether Realms\bin\Debug\2.Nether Realms.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Nether Realms\obj\Debug\2.Nether Realms.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Nether Realms\obj\Debug\2.Nether Realms.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Nether Realms\obj\Debug\2.Nether Realms.pdb

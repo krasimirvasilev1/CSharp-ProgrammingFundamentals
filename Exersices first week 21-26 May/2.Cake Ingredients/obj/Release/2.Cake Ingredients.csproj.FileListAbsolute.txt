@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Cake Ingredients\bin\Release\2.Cake Ingredients.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Cake Ingredients\bin\Release\2.Cake Ingredients.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Cake Ingredients\bin\Release\2.Cake Ingredients.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Cake Ingredients\obj\Release\2.Cake Ingredients.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Cake Ingredients\obj\Release\2.Cake Ingredients.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Cake Ingredients\obj\Release\2.Cake Ingredients.csprojResolveAssemblyReference.cache

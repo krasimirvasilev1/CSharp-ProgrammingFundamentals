@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.1\bin\Debug\4.1.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.1\bin\Debug\4.1.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.1\bin\Debug\4.1.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.1\obj\Debug\4.1.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.1\obj\Debug\4.1.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.1\obj\Debug\4.1.pdb

@@ -1,0 +1,12 @@
+c:\users\krasi\documents\visual studio 2017\Projects\1.Count Working Days\Упражнения за пета седмица\bin\Debug\Упражнения за пета седмица.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\1.Count Working Days\Упражнения за пета седмица\bin\Debug\Упражнения за пета седмица.exe
+c:\users\krasi\documents\visual studio 2017\Projects\1.Count Working Days\Упражнения за пета седмица\bin\Debug\Упражнения за пета седмица.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\1.Count Working Days\Упражнения за пета седмица\obj\Debug\Count Working Days.csprojResolveAssemblyReference.cache
+c:\users\krasi\documents\visual studio 2017\Projects\1.Count Working Days\Упражнения за пета седмица\obj\Debug\Упражнения за пета седмица.exe
+c:\users\krasi\documents\visual studio 2017\Projects\1.Count Working Days\Упражнения за пета седмица\obj\Debug\Упражнения за пета седмица.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\Упражнения за пета седмица\bin\Debug\Упражнения за пета седмица.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\Упражнения за пета седмица\bin\Debug\Упражнения за пета седмица.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\Упражнения за пета седмица\bin\Debug\Упражнения за пета седмица.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\Упражнения за пета седмица\obj\Debug\Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\Упражнения за пета седмица\obj\Debug\Упражнения за пета седмица.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\Упражнения за пета седмица\obj\Debug\Упражнения за пета седмица.pdb

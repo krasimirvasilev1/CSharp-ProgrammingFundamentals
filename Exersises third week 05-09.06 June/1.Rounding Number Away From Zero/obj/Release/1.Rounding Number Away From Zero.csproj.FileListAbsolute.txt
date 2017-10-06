@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Rounding Number Away From Zero\bin\Release\1.Rounding Number Away From Zero.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Rounding Number Away From Zero\bin\Release\1.Rounding Number Away From Zero.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Rounding Number Away From Zero\bin\Release\1.Rounding Number Away From Zero.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Rounding Number Away From Zero\obj\Release\1.Rounding Number Away From Zero.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Rounding Number Away From Zero\obj\Release\1.Rounding Number Away From Zero.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Rounding Number Away From Zero\obj\Release\1.Rounding Number Away From Zero.pdb

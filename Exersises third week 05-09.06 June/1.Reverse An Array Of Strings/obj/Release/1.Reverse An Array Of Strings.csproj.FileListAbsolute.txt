@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Reverse An Array Of Strings\bin\Release\1.Reverse An Array Of Strings.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Reverse An Array Of Strings\bin\Release\1.Reverse An Array Of Strings.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Reverse An Array Of Strings\bin\Release\1.Reverse An Array Of Strings.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Reverse An Array Of Strings\obj\Release\1.Reverse An Array Of Strings.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Reverse An Array Of Strings\obj\Release\1.Reverse An Array Of Strings.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Reverse An Array Of Strings\obj\Release\1.Reverse An Array Of Strings.pdb

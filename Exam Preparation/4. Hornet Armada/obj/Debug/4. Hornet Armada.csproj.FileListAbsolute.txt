@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4. Hornet Armada\bin\Debug\_4.Hornet_Armada.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4. Hornet Armada\bin\Debug\_4.Hornet_Armada.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4. Hornet Armada\bin\Debug\_4.Hornet_Armada.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4. Hornet Armada\obj\Debug\4. Hornet Armada.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4. Hornet Armada\obj\Debug\_4.Hornet_Armada.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4. Hornet Armada\obj\Debug\_4.Hornet_Armada.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Sighn of Integer Numbers\bin\Debug\1.Sighn of Integer Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Sighn of Integer Numbers\bin\Debug\1.Sighn of Integer Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Sighn of Integer Numbers\bin\Debug\1.Sighn of Integer Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Sighn of Integer Numbers\obj\Debug\1.Sighn of Integer Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Sighn of Integer Numbers\obj\Debug\1.Sighn of Integer Numbers.pdb

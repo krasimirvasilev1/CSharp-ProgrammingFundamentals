@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.2 Lady Bugs - Решение Влади\bin\Debug\2.2 Lady Bugs - Решение Влади.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.2 Lady Bugs - Решение Влади\bin\Debug\2.2 Lady Bugs - Решение Влади.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.2 Lady Bugs - Решение Влади\bin\Debug\2.2 Lady Bugs - Решение Влади.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.2 Lady Bugs - Решение Влади\obj\Debug\2.2 Lady Bugs - Решение Влади.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.2 Lady Bugs - Решение Влади\obj\Debug\2.2 Lady Bugs - Решение Влади.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.2 Lady Bugs - Решение Влади\obj\Debug\2.2 Lady Bugs - Решение Влади.pdb

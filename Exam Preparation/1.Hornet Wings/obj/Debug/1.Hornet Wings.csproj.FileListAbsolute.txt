@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Hornet Wings\bin\Debug\1.Hornet Wings.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Hornet Wings\bin\Debug\1.Hornet Wings.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Hornet Wings\bin\Debug\1.Hornet Wings.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Hornet Wings\obj\Debug\1.Hornet Wings.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Hornet Wings\obj\Debug\1.Hornet Wings.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Hornet Wings\obj\Debug\1.Hornet Wings.pdb

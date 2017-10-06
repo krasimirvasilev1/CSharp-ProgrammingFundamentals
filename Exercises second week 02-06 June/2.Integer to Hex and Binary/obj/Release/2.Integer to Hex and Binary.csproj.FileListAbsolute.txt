@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Integer to Hex and Binary\bin\Release\2.Integer to Hex and Binary.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Integer to Hex and Binary\bin\Release\2.Integer to Hex and Binary.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Integer to Hex and Binary\bin\Release\2.Integer to Hex and Binary.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Integer to Hex and Binary\obj\Release\2.Integer to Hex and Binary.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Integer to Hex and Binary\obj\Release\2.Integer to Hex and Binary.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Integer to Hex and Binary\obj\Release\2.Integer to Hex and Binary.csprojResolveAssemblyReference.cache

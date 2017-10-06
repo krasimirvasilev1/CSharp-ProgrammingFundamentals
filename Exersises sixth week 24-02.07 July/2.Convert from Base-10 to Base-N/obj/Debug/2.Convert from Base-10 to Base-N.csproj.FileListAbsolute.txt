@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Convert from Base-10 to Base-N\bin\Debug\2.Convert from Base-10 to Base-N.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Convert from Base-10 to Base-N\bin\Debug\2.Convert from Base-10 to Base-N.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Convert from Base-10 to Base-N\bin\Debug\2.Convert from Base-10 to Base-N.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Convert from Base-10 to Base-N\obj\Debug\2.Convert from Base-10 to Base-N.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Convert from Base-10 to Base-N\obj\Debug\2.Convert from Base-10 to Base-N.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Convert from Base-10 to Base-N\obj\Debug\2.Convert from Base-10 to Base-N.pdb

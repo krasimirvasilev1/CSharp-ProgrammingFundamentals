@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Rotate And Sum\obj\Debug\2.Rotate And Sum.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Rotate And Sum\bin\Debug\2.Rotate And Sum.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Rotate And Sum\bin\Debug\2.Rotate And Sum.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Rotate And Sum\bin\Debug\2.Rotate And Sum.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Rotate And Sum\obj\Debug\2.Rotate And Sum.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Rotate And Sum\obj\Debug\2.Rotate And Sum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract Sentences By Keyword\bin\Debug\2.Extract Sentences By Keyword.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract Sentences By Keyword\bin\Debug\2.Extract Sentences By Keyword.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract Sentences By Keyword\bin\Debug\2.Extract Sentences By Keyword.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract Sentences By Keyword\obj\Debug\2.Extract Sentences By Keyword.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract Sentences By Keyword\obj\Debug\2.Extract Sentences By Keyword.pdb

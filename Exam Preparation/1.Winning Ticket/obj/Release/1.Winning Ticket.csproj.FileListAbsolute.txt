@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Winning Ticket\bin\Release\1.Winning Ticket.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Winning Ticket\bin\Release\1.Winning Ticket.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Winning Ticket\bin\Release\1.Winning Ticket.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Winning Ticket\obj\Release\1.Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Winning Ticket\obj\Release\1.Winning Ticket.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\1.Winning Ticket\obj\Release\1.Winning Ticket.pdb

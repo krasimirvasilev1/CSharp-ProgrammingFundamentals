@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.2 Array Manipulator\bin\Debug\4.2 Array Manipulator.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.2 Array Manipulator\bin\Debug\4.2 Array Manipulator.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.2 Array Manipulator\bin\Debug\4.2 Array Manipulator.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.2 Array Manipulator\obj\Debug\4.2 Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.2 Array Manipulator\obj\Debug\4.2 Array Manipulator.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\4.2 Array Manipulator\obj\Debug\4.2 Array Manipulator.pdb

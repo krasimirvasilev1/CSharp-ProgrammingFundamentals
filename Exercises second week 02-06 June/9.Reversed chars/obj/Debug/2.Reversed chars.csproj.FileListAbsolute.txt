@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\9.Reversed chars\bin\Debug\9.Reversed chars.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\9.Reversed chars\bin\Debug\9.Reversed chars.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\9.Reversed chars\bin\Debug\9.Reversed chars.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\9.Reversed chars\obj\Debug\9.Reversed chars.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\9.Reversed chars\obj\Debug\9.Reversed chars.pdb

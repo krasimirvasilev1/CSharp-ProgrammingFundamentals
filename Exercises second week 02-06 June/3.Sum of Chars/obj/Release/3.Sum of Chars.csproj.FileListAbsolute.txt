@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Sum of Chars\bin\Release\3.Sum of Chars.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Sum of Chars\bin\Release\3.Sum of Chars.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Sum of Chars\bin\Release\3.Sum of Chars.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Sum of Chars\obj\Release\3.Sum of Chars.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Sum of Chars\obj\Release\3.Sum of Chars.pdb

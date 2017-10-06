@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Primes in Given Range\bin\Debug\1.Primes in Given Range.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Primes in Given Range\bin\Debug\1.Primes in Given Range.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Primes in Given Range\bin\Debug\1.Primes in Given Range.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Primes in Given Range\obj\Debug\1.Primes in Given Range.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Primes in Given Range\obj\Debug\1.Primes in Given Range.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Primes in Given Range\obj\Debug\1.Primes in Given Range.pdb

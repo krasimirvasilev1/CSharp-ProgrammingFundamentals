@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Take Skip Rope\bin\Release\3.Take Skip Rope.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Take Skip Rope\bin\Release\3.Take Skip Rope.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Take Skip Rope\bin\Release\3.Take Skip Rope.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Take Skip Rope\obj\Release\3.Take Skip Rope.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Take Skip Rope\obj\Release\3.Take Skip Rope.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Take Skip Rope\obj\Release\3.Take Skip Rope.pdb

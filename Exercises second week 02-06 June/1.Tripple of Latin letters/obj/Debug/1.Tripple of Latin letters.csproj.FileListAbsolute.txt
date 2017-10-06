@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Tripple of Latin letters\bin\Debug\1.Tripple of Latin letters.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Tripple of Latin letters\bin\Debug\1.Tripple of Latin letters.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Tripple of Latin letters\bin\Debug\1.Tripple of Latin letters.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Tripple of Latin letters\obj\Debug\1.Tripple of Latin letters.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Tripple of Latin letters\obj\Debug\1.Tripple of Latin letters.pdb

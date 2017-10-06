@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.CenturiesToNanoseconds\bin\Debug\2.CenturiesToNanoseconds.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.CenturiesToNanoseconds\bin\Debug\2.CenturiesToNanoseconds.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.CenturiesToNanoseconds\bin\Debug\2.CenturiesToNanoseconds.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.CenturiesToNanoseconds\obj\Debug\2.CenturiesToNanoseconds.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.CenturiesToNanoseconds\obj\Debug\2.CenturiesToNanoseconds.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.CenturiesToNanoseconds\obj\Debug\2.CenturiesToNanoseconds.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.3 Rage Quit\bin\Debug\3.3 Rage Quit.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.3 Rage Quit\bin\Debug\3.3 Rage Quit.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.3 Rage Quit\bin\Debug\3.3 Rage Quit.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.3 Rage Quit\obj\Debug\3.3 Rage Quit.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.3 Rage Quit\obj\Debug\3.3 Rage Quit.pdb

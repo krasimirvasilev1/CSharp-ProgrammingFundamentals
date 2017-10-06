@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Exchange Variable Values\bin\Debug\2.Exchange Variable Values.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Exchange Variable Values\bin\Debug\2.Exchange Variable Values.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Exchange Variable Values\bin\Debug\2.Exchange Variable Values.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Exchange Variable Values\obj\Debug\2.Exchange Variable Values.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Exchange Variable Values\obj\Debug\2.Exchange Variable Values.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Exchange Variable Values\obj\Debug\2.Exchange Variable Values.csprojResolveAssemblyReference.cache

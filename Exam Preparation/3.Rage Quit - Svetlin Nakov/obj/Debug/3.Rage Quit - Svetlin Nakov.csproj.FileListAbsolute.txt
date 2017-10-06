@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Rage Quit - Svetlin Nakov\bin\Debug\3.Rage Quit - Svetlin Nakov.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Rage Quit - Svetlin Nakov\bin\Debug\3.Rage Quit - Svetlin Nakov.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Rage Quit - Svetlin Nakov\bin\Debug\3.Rage Quit - Svetlin Nakov.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Rage Quit - Svetlin Nakov\obj\Debug\3.Rage Quit - Svetlin Nakov.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Rage Quit - Svetlin Nakov\obj\Debug\3.Rage Quit - Svetlin Nakov.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Rage Quit - Svetlin Nakov\obj\Debug\3.Rage Quit - Svetlin Nakov.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Parking Validation\bin\Debug\3.Parking Validation.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Parking Validation\bin\Debug\3.Parking Validation.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Parking Validation\bin\Debug\3.Parking Validation.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Parking Validation\obj\Debug\3.Parking Validation.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Parking Validation\obj\Debug\3.Parking Validation.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\3.Parking Validation\obj\Debug\3.Parking Validation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Max Sequence of Increasing Elements\bin\Debug\2.Max Sequence of Increasing Elements.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Max Sequence of Increasing Elements\bin\Debug\2.Max Sequence of Increasing Elements.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Max Sequence of Increasing Elements\bin\Debug\2.Max Sequence of Increasing Elements.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Max Sequence of Increasing Elements\obj\Debug\2.Max Sequence of Increasing Elements.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Max Sequence of Increasing Elements\obj\Debug\2.Max Sequence of Increasing Elements.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Max Sequence of Increasing Elements\obj\Debug\2.Max Sequence of Increasing Elements.csprojResolveAssemblyReference.cache

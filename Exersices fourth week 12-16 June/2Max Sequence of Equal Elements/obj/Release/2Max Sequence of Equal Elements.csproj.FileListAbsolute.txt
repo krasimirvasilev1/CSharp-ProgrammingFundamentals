@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2Max Sequence of Equal Elements\bin\Release\2Max Sequence of Equal Elements.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2Max Sequence of Equal Elements\bin\Release\2Max Sequence of Equal Elements.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2Max Sequence of Equal Elements\bin\Release\2Max Sequence of Equal Elements.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2Max Sequence of Equal Elements\obj\Release\2Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2Max Sequence of Equal Elements\obj\Release\2Max Sequence of Equal Elements.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2Max Sequence of Equal Elements\obj\Release\2Max Sequence of Equal Elements.pdb

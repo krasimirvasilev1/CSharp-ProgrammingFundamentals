@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Vehicle Catalogue\bin\Debug\2.Vehicle Catalogue.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Vehicle Catalogue\bin\Debug\2.Vehicle Catalogue.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Vehicle Catalogue\bin\Debug\2.Vehicle Catalogue.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Vehicle Catalogue\obj\Debug\2.Vehicle Catalogue.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Vehicle Catalogue\obj\Debug\2.Vehicle Catalogue.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за пета седмица 19-23.06\2.Vehicle Catalogue\obj\Debug\2.Vehicle Catalogue.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Text Filter\bin\Debug\1.Text Filter.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Text Filter\bin\Debug\1.Text Filter.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Text Filter\bin\Debug\1.Text Filter.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Text Filter\obj\Debug\1.Text Filter.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Text Filter\obj\Debug\1.Text Filter.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Text Filter\obj\Debug\1.Text Filter.pdb

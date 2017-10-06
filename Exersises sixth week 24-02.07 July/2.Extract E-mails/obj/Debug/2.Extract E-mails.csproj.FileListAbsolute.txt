@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract E-mails\bin\Debug\2.Extract E-mails.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract E-mails\bin\Debug\2.Extract E-mails.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract E-mails\bin\Debug\2.Extract E-mails.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract E-mails\obj\Debug\2.Extract E-mails.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Extract E-mails\obj\Debug\2.Extract E-mails.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Honet Comm - Practical Exam February\bin\Debug\2.Honet Comm - Practical Exam February.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Honet Comm - Practical Exam February\bin\Debug\2.Honet Comm - Practical Exam February.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Honet Comm - Practical Exam February\bin\Debug\2.Honet Comm - Practical Exam February.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Honet Comm - Practical Exam February\obj\Debug\2.Honet Comm - Practical Exam February.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Honet Comm - Practical Exam February\obj\Debug\2.Honet Comm - Practical Exam February.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Honet Comm - Practical Exam February\obj\Debug\2.Honet Comm - Practical Exam February.pdb

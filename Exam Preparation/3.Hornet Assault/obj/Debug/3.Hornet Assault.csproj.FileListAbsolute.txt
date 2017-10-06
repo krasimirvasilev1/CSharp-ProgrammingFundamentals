@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Hornet Assault\bin\Debug\3.Hornet Assault.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Hornet Assault\bin\Debug\3.Hornet Assault.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Hornet Assault\bin\Debug\3.Hornet Assault.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Hornet Assault\obj\Debug\3.Hornet Assault.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Hornet Assault\obj\Debug\3.Hornet Assault.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.Hornet Assault\obj\Debug\3.Hornet Assault.pdb

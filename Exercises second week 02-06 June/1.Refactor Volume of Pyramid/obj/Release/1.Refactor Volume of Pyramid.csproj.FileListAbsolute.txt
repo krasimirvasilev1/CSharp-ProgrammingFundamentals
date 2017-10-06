@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Refactor Volume of Pyramid\bin\Release\1.Refactor Volume of Pyramid.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Refactor Volume of Pyramid\bin\Release\1.Refactor Volume of Pyramid.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Refactor Volume of Pyramid\bin\Release\1.Refactor Volume of Pyramid.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Refactor Volume of Pyramid\obj\Release\1.Refactor Volume of Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Refactor Volume of Pyramid\obj\Release\1.Refactor Volume of Pyramid.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Refactor Volume of Pyramid\obj\Release\1.Refactor Volume of Pyramid.pdb

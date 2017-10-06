@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Limits2\bin\Release\2.Convert Speed Limits2.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Limits2\bin\Release\2.Convert Speed Limits2.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Limits2\bin\Release\2.Convert Speed Limits2.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Limits2\obj\Release\2.Convert Speed Limits2.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Convert Speed Limits2\obj\Release\2.Convert Speed Limits2.pdb

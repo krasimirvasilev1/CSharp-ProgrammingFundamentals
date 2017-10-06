@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.2 Command Interpreter\bin\Debug\3.2 Command Interpreter.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.2 Command Interpreter\bin\Debug\3.2 Command Interpreter.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.2 Command Interpreter\bin\Debug\3.2 Command Interpreter.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.2 Command Interpreter\obj\Debug\2Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.2 Command Interpreter\obj\Debug\3.2 Command Interpreter.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.2 Command Interpreter\obj\Debug\3.2 Command Interpreter.pdb

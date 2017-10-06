@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp3\bin\Release\ConsoleApp3.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp3\bin\Release\ConsoleApp3.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp3\bin\Release\ConsoleApp3.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp3\obj\Release\ConsoleApp3.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp3\obj\Release\ConsoleApp3.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\ConsoleApp3\obj\Release\Multiplication Table.csprojResolveAssemblyReference.cache

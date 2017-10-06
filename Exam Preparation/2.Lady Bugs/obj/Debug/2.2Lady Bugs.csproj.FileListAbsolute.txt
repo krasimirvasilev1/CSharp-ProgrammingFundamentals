@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Lady Bugs\bin\Debug\2.Lady Bugs.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Lady Bugs\bin\Debug\2.Lady Bugs.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Lady Bugs\bin\Debug\2.Lady Bugs.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Lady Bugs\obj\Debug\2.Lady Bugs.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Lady Bugs\obj\Debug\2.Lady Bugs.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Lady Bugs\obj\Debug\2.2Lady Bugs.csprojResolveAssemblyReference.cache

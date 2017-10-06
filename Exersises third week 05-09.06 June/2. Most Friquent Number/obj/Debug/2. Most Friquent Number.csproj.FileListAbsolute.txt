@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Most Friquent Number\bin\Debug\_2.Most_Friquent_Number.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Most Friquent Number\bin\Debug\_2.Most_Friquent_Number.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Most Friquent Number\bin\Debug\_2.Most_Friquent_Number.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Most Friquent Number\obj\Debug\2. Most Friquent Number.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Most Friquent Number\obj\Debug\_2.Most_Friquent_Number.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Most Friquent Number\obj\Debug\_2.Most_Friquent_Number.pdb

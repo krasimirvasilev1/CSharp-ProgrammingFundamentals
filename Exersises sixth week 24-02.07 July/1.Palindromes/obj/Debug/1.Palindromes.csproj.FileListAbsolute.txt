@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Palindromes\bin\Debug\1.Palindromes.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Palindromes\bin\Debug\1.Palindromes.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Palindromes\bin\Debug\1.Palindromes.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Palindromes\obj\Debug\1.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Palindromes\obj\Debug\1.Palindromes.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\1.Palindromes\obj\Debug\1.Palindromes.pdb

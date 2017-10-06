@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Sum Big Numbers\bin\Debug\2.Sum Big Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Sum Big Numbers\bin\Debug\2.Sum Big Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Sum Big Numbers\bin\Debug\2.Sum Big Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Sum Big Numbers\obj\Debug\2.Sum Big Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Sum Big Numbers\obj\Debug\2.Sum Big Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Sum Big Numbers\obj\Debug\2.Sum Big Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Devisible by Three\Devisible by Three\bin\Debug\Devisible by Three.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Devisible by Three\Devisible by Three\bin\Debug\Devisible by Three.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Devisible by Three\Devisible by Three\bin\Debug\Devisible by Three.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Devisible by Three\Devisible by Three\obj\Debug\Devisible by Three.csprojResolveAssemblyReference.cache
+c:\users\krasi\documents\visual studio 2017\Projects\Devisible by Three\Devisible by Three\obj\Debug\Devisible by Three.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Devisible by Three\Devisible by Three\obj\Debug\Devisible by Three.pdb

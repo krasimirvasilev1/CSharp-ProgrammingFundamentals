@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.1Softuni Coffee Orders\bin\Debug\3.1Softuni Coffee Orders.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.1Softuni Coffee Orders\bin\Debug\3.1Softuni Coffee Orders.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.1Softuni Coffee Orders\bin\Debug\3.1Softuni Coffee Orders.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.1Softuni Coffee Orders\obj\Debug\3.1Softuni Coffee Orders.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\3.1Softuni Coffee Orders\obj\Debug\3.1Softuni Coffee Orders.pdb

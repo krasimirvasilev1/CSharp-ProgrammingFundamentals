@@ -1,0 +1,5 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.Sino The Walker\bin\Debug\1.Sino The Walker.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.Sino The Walker\bin\Debug\1.Sino The Walker.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.Sino The Walker\bin\Debug\1.Sino The Walker.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.Sino The Walker\obj\Debug\1.Sino The Walker.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Подготовка за изпит\1.Sino The Walker\obj\Debug\1.Sino The Walker.pdb

@@ -1,0 +1,6 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Circle Area (Precision 12)\bin\Debug\1.Circle Area (Precision 12).exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Circle Area (Precision 12)\bin\Debug\1.Circle Area (Precision 12).exe
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Circle Area (Precision 12)\bin\Debug\1.Circle Area (Precision 12).pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Circle Area (Precision 12)\obj\Debug\1.Circle Area (Precision 12).csprojResolveAssemblyReference.cache
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Circle Area (Precision 12)\obj\Debug\1.Circle Area (Precision 12).exe
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Circle Area (Precision 12)\obj\Debug\1.Circle Area (Precision 12).pdb

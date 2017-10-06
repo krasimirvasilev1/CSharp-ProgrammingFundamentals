@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Match Full Name - Lab - RegEx\bin\Debug\2.Match Full Name - Lab - RegEx.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Match Full Name - Lab - RegEx\bin\Debug\2.Match Full Name - Lab - RegEx.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Match Full Name - Lab - RegEx\bin\Debug\2.Match Full Name - Lab - RegEx.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Match Full Name - Lab - RegEx\obj\Debug\2.Match Full Name - Lab - RegEx.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Match Full Name - Lab - RegEx\obj\Debug\2.Match Full Name - Lab - RegEx.pdb

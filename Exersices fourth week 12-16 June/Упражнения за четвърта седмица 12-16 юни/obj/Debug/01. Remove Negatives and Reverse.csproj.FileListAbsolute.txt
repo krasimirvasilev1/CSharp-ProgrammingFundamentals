@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\Упражнения за четвърта седмица 12-16 юни\bin\Debug\Упражнения за четвърта седмица 12-16 юни.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\Упражнения за четвърта седмица 12-16 юни\bin\Debug\Упражнения за четвърта седмица 12-16 юни.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\Упражнения за четвърта седмица 12-16 юни\bin\Debug\Упражнения за четвърта седмица 12-16 юни.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\Упражнения за четвърта седмица 12-16 юни\obj\Debug\01. Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\Упражнения за четвърта седмица 12-16 юни\obj\Debug\Упражнения за четвърта седмица 12-16 юни.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\Упражнения за четвърта седмица 12-16 юни\obj\Debug\Упражнения за четвърта седмица 12-16 юни.pdb

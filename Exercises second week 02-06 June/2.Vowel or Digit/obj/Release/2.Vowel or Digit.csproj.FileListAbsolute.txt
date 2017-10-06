@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Vowel or Digit\bin\Release\2.Vowel or Digit.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Vowel or Digit\bin\Release\2.Vowel or Digit.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Vowel or Digit\bin\Release\2.Vowel or Digit.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Vowel or Digit\obj\Release\2.Vowel or Digit.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Vowel or Digit\obj\Release\2.Vowel or Digit.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Vowel or Digit\obj\Release\2.Vowel or Digit.csprojResolveAssemblyReference.cache

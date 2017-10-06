@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Compare Char Arrays\bin\Debug\2.Compare Char Arrays.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Compare Char Arrays\bin\Debug\2.Compare Char Arrays.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Compare Char Arrays\bin\Debug\2.Compare Char Arrays.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Compare Char Arrays\obj\Debug\2.Compare Char Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Compare Char Arrays\obj\Debug\2.Compare Char Arrays.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2.Compare Char Arrays\obj\Debug\2.Compare Char Arrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Fast Prime Checker - Refactor\bin\Release\2.Fast Prime Checker - Refactor.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Fast Prime Checker - Refactor\bin\Release\2.Fast Prime Checker - Refactor.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Fast Prime Checker - Refactor\bin\Release\2.Fast Prime Checker - Refactor.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Fast Prime Checker - Refactor\obj\Release\2.Fast Prime Checker - Refactor.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Fast Prime Checker - Refactor\obj\Release\2.Fast Prime Checker - Refactor.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Fast Prime Checker - Refactor\obj\Release\2.Fast Prime Checker - Refactor.csprojResolveAssemblyReference.cache

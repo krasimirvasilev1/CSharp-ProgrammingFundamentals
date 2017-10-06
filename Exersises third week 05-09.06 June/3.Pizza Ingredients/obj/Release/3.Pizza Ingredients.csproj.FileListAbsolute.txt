@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Pizza Ingredients\bin\Release\3.Pizza Ingredients.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Pizza Ingredients\bin\Release\3.Pizza Ingredients.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Pizza Ingredients\bin\Release\3.Pizza Ingredients.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Pizza Ingredients\obj\Release\3.Pizza Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Pizza Ingredients\obj\Release\3.Pizza Ingredients.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\3.Pizza Ingredients\obj\Release\3.Pizza Ingredients.pdb

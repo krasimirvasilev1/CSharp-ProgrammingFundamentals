@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Numeral Types and Type Conversion\bin\Release\3.Numeral Types and Type Conversion.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Numeral Types and Type Conversion\bin\Release\3.Numeral Types and Type Conversion.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Numeral Types and Type Conversion\bin\Release\3.Numeral Types and Type Conversion.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Numeral Types and Type Conversion\obj\Release\3.Numeral Types and Type Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Numeral Types and Type Conversion\obj\Release\3.Numeral Types and Type Conversion.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3.Numeral Types and Type Conversion\obj\Release\3.Numeral Types and Type Conversion.pdb

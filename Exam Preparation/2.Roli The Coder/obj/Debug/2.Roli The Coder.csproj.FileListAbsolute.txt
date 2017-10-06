@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Roli The Coder\bin\Debug\2.Roli The Coder.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Roli The Coder\bin\Debug\2.Roli The Coder.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Roli The Coder\bin\Debug\2.Roli The Coder.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Roli The Coder\obj\Debug\2.Roli The Coder.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Roli The Coder\obj\Debug\2.Roli The Coder.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Roli The Coder\obj\Debug\2.Roli The Coder.csprojResolveAssemblyReference.cache

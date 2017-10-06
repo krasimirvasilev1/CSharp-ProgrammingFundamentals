@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.HandsOfCards\bin\Debug\2.HandsOfCards.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.HandsOfCards\bin\Debug\2.HandsOfCards.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.HandsOfCards\bin\Debug\2.HandsOfCards.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.HandsOfCards\obj\Debug\2.HandsOfCards.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.HandsOfCards\obj\Debug\2.HandsOfCards.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.HandsOfCards\obj\Debug\2.HandsOfCards.csprojResolveAssemblyReference.cache

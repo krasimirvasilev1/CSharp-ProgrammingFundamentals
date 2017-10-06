@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\Упражнения за шеста седмица\bin\Debug\Упражнения за шеста седмица.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\Упражнения за шеста седмица\bin\Debug\Упражнения за шеста седмица.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\Упражнения за шеста седмица\bin\Debug\Упражнения за шеста седмица.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\Упражнения за шеста седмица\obj\Debug\1.Reversed String.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\Упражнения за шеста седмица\obj\Debug\Упражнения за шеста седмица.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\Упражнения за шеста седмица\obj\Debug\Упражнения за шеста седмица.pdb

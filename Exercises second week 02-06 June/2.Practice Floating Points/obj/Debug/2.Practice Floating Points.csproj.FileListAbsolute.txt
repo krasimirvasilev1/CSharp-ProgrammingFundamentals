@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Practice Floating Points\bin\Debug\2.Practice Floating Points.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Practice Floating Points\bin\Debug\2.Practice Floating Points.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Practice Floating Points\bin\Debug\2.Practice Floating Points.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Practice Floating Points\obj\Debug\2.Practice Floating Points.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\2.Practice Floating Points\obj\Debug\2.Practice Floating Points.pdb

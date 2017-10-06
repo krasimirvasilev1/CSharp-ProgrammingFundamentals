@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.3 Nether Realms - Решение Влади\bin\Debug\2.3 Nether Realms - Решение Влади.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.3 Nether Realms - Решение Влади\bin\Debug\2.3 Nether Realms - Решение Влади.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.3 Nether Realms - Решение Влади\bin\Debug\2.3 Nether Realms - Решение Влади.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.3 Nether Realms - Решение Влади\obj\Debug\2.3 Nether Realms - Решение Влади.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.3 Nether Realms - Решение Влади\obj\Debug\2.3 Nether Realms - Решение Влади.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.3 Nether Realms - Решение Влади\obj\Debug\2.3 Nether Realms - Решение Влади.pdb

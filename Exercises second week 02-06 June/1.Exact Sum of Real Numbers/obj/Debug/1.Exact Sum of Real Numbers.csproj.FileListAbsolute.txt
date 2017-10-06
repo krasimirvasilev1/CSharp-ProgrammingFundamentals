@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Exact Sum of Real Numbers\bin\Debug\1.Exact Sum of Real Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Exact Sum of Real Numbers\bin\Debug\1.Exact Sum of Real Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Exact Sum of Real Numbers\bin\Debug\1.Exact Sum of Real Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Exact Sum of Real Numbers\obj\Debug\1.Exact Sum of Real Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Exact Sum of Real Numbers\obj\Debug\1.Exact Sum of Real Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\1.Exact Sum of Real Numbers\obj\Debug\1.Exact Sum of Real Numbers.pdb

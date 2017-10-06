@@ -1,0 +1,6 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Theatre Promotion\Theatre Promotion\bin\Debug\Theatre Promotion.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Theatre Promotion\Theatre Promotion\bin\Debug\Theatre Promotion.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Theatre Promotion\Theatre Promotion\bin\Debug\Theatre Promotion.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Theatre Promotion\Theatre Promotion\obj\Debug\Theatre Promotion.csprojResolveAssemblyReference.cache
+c:\users\krasi\documents\visual studio 2017\Projects\Theatre Promotion\Theatre Promotion\obj\Debug\Theatre Promotion.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Theatre Promotion\Theatre Promotion\obj\Debug\Theatre Promotion.pdb

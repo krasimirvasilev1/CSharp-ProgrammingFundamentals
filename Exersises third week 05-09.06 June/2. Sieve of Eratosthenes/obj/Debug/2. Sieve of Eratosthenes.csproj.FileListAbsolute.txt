@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Sieve of Eratosthenes\bin\Debug\_2.Sieve_of_Eratosthenes.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Sieve of Eratosthenes\bin\Debug\_2.Sieve_of_Eratosthenes.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Sieve of Eratosthenes\bin\Debug\_2.Sieve_of_Eratosthenes.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Sieve of Eratosthenes\obj\Debug\2. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Sieve of Eratosthenes\obj\Debug\_2.Sieve_of_Eratosthenes.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\2. Sieve of Eratosthenes\obj\Debug\_2.Sieve_of_Eratosthenes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Only Letters Without Regex\bin\Debug\2.Only Letters Without Regex.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Only Letters Without Regex\bin\Debug\2.Only Letters Without Regex.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Only Letters Without Regex\bin\Debug\2.Only Letters Without Regex.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Only Letters Without Regex\obj\Debug\2.Only Letters Without Regex.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Only Letters Without Regex\obj\Debug\2.Only Letters Without Regex.pdb

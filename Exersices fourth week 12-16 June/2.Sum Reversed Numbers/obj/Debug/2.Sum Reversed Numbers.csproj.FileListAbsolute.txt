@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum Reversed Numbers\bin\Debug\2.Sum Reversed Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum Reversed Numbers\bin\Debug\2.Sum Reversed Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum Reversed Numbers\bin\Debug\2.Sum Reversed Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum Reversed Numbers\obj\Debug\2.Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum Reversed Numbers\obj\Debug\2.Sum Reversed Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\2.Sum Reversed Numbers\obj\Debug\2.Sum Reversed Numbers.pdb

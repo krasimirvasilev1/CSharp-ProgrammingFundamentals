@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Sum Adjacent Equal Numbers\bin\Release\1.Sum Adjacent Equal Numbers.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Sum Adjacent Equal Numbers\bin\Release\1.Sum Adjacent Equal Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Sum Adjacent Equal Numbers\bin\Release\1.Sum Adjacent Equal Numbers.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Sum Adjacent Equal Numbers\obj\Release\1.Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Sum Adjacent Equal Numbers\obj\Release\1.Sum Adjacent Equal Numbers.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за четвърта седмица 12-16 юни\1.Sum Adjacent Equal Numbers\obj\Release\1.Sum Adjacent Equal Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Morso Code Upgraded\bin\Debug\2.Morso Code Upgraded.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Morso Code Upgraded\bin\Debug\2.Morso Code Upgraded.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Morso Code Upgraded\bin\Debug\2.Morso Code Upgraded.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Morso Code Upgraded\obj\Debug\2.Morso Code Upgraded.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за шеста седмица\2.Morso Code Upgraded\obj\Debug\2.Morso Code Upgraded.pdb

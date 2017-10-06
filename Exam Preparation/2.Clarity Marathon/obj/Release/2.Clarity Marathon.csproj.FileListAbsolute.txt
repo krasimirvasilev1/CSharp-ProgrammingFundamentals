@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Clarity Marathon\bin\Release\2.Clarity Marathon.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Clarity Marathon\bin\Release\2.Clarity Marathon.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Clarity Marathon\bin\Release\2.Clarity Marathon.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Clarity Marathon\obj\Release\2.Clarity Marathon.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Clarity Marathon\obj\Release\2.Clarity Marathon.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Подготовка за изпит\2.Clarity Marathon\obj\Release\2.Clarity Marathon.csprojResolveAssemblyReference.cache

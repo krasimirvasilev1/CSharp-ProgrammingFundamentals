@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3. Boat Simulator\obj\Release\3. Boat Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3. Boat Simulator\bin\Release\_3.Boat_Simulator.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3. Boat Simulator\bin\Release\_3.Boat_Simulator.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3. Boat Simulator\bin\Release\_3.Boat_Simulator.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3. Boat Simulator\obj\Release\_3.Boat_Simulator.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за втора седмица 29-02 юни\3. Boat Simulator\obj\Release\_3.Boat_Simulator.pdb

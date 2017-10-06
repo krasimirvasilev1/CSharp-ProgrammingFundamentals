@@ -1,0 +1,6 @@
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\Упражнения за втора седмица 29-02 юни\bin\Debug\Упражнения за втора седмица 29-02 юни.exe.config
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\Упражнения за втора седмица 29-02 юни\bin\Debug\Упражнения за втора седмица 29-02 юни.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\Упражнения за втора седмица 29-02 юни\bin\Debug\Упражнения за втора седмица 29-02 юни.pdb
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\Упражнения за втора седмица 29-02 юни\obj\Debug\Упражнения за втора седмица 29-02 юни.csprojResolveAssemblyReference.cache
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\Упражнения за втора седмица 29-02 юни\obj\Debug\Упражнения за втора седмица 29-02 юни.exe
+c:\users\krasi\documents\visual studio 2017\Projects\Упражнения за втора седмица 29-02 юни\Упражнения за втора седмица 29-02 юни\obj\Debug\Упражнения за втора седмица 29-02 юни.pdb

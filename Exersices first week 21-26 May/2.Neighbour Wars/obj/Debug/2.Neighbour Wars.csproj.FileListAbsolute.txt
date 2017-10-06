@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Neighbour Wars\bin\Debug\2.Neighbour Wars.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Neighbour Wars\bin\Debug\2.Neighbour Wars.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Neighbour Wars\bin\Debug\2.Neighbour Wars.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Neighbour Wars\obj\Debug\2.Neighbour Wars.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\2.Neighbour Wars\obj\Debug\2.Neighbour Wars.pdb

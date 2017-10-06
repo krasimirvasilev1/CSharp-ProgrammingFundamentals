@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.MilesToKIlometres\bin\Debug\1.MilesToKIlometres.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.MilesToKIlometres\bin\Debug\1.MilesToKIlometres.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.MilesToKIlometres\bin\Debug\1.MilesToKIlometres.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.MilesToKIlometres\obj\Debug\1.MilesToKIlometres.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за първа седмица 21-26 Май\1.MilesToKIlometres\obj\Debug\1.MilesToKIlometres.pdb

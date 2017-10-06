@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Numbers Of Reverse Order\bin\Debug\1.Numbers Of Reverse Order.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Numbers Of Reverse Order\bin\Debug\1.Numbers Of Reverse Order.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Numbers Of Reverse Order\bin\Debug\1.Numbers Of Reverse Order.pdb
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Numbers Of Reverse Order\obj\Debug\1.Numbers Of Reverse Order.exe
+C:\Users\Krasi\Documents\Visual Studio 2017\Projects\Упражнения за трета седмица 05-09.06\1.Numbers Of Reverse Order\obj\Debug\1.Numbers Of Reverse Order.pdb
